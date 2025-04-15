@@ -47,7 +47,7 @@ If you'd like to clone, run, or contribute to the project, follow the steps belo
 ###  Clone the Repository
 
 ```bash
-git clone https://mohiddin0786.github.io/CommunitySafetyApp/
+git clone https://github.com/mohiddin0786/CommunitySafetyApp.git
 cd community-safety-map
 
 ## 🔧 Firebase Setup (Optional if Viewing Demo)
