@@ -111,5 +111,5 @@ Here are some planned features and ideas to expand the Community Safety Map:
   View submitted tips and stats, track contributions.
 ## 🎥 Demo Video
 
-Watch the demo: [YouTube Link or Drive Link](https://yourlink.com)
+Watch the demo:https://youtu.be/y1RKmUxnsiM?si=_Rzwfd1ct3gX4TMx
 
