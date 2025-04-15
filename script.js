@@ -1,12 +1,11 @@
-// Firebase Configuration
+// Initialize Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyBdG9kA4lBH4Edjw-nI9i4FuvXHwvLbvQQ",
-  authDomain: "map-safety-app.firebaseapp.com",
-  projectId: "map-safety-app",
-  storageBucket: "map-safety-app.firebasestorage.app",
-  messagingSenderId: "178491555595",
-  appId: "1:178491555595:web:3022738d7dd7c4be766c0e",
-  measurementId: "G-05JRJ8SDYK"
+  apiKey: "YOUR_API_KEY",
+  authDomain: "YOUR_AUTH_DOMAIN",
+  projectId: "YOUR_PROJECT_ID",
+  storageBucket: "YOUR_STORAGE_BUCKET",
+  messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
+  appId: "YOUR_APP_ID"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
